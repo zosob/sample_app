@@ -4,4 +4,8 @@ class StaticPagesController < ApplicationController #StaticPages inherits from A
 
   def help
   end
+  
+  def about
+  end
+  
 end
