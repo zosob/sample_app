@@ -8,4 +8,7 @@ class StaticPagesController < ApplicationController #StaticPages inherits from A
   def about
   end
   
+  def contact
+  end
+  
 end
